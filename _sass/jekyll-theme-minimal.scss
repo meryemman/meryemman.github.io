@@ -7,7 +7,7 @@ body {
   background-repeat: no-repeat;
   padding:10px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#d6f0ff;
   font-weight:400;
 }
 
@@ -37,7 +37,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:rgb(0, 255, 255);
   text-decoration:none;
 }
 
@@ -48,13 +48,13 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:rgb(0, 255, 255);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:rgb(0, 255, 255);
 }
 
 .wrapper {
@@ -94,12 +94,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:rgb(48, 161, 206);
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:rgb(48, 161, 206);
 }
 
 img {
