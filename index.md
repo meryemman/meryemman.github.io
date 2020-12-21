@@ -54,19 +54,20 @@ intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez -
 
 ## Skills
 
-* Specialization: Artificielle Intelligence, Business Intelligence, Machine Learning, Deep Learning,Big Data(Hadoop ecosystem –
-cloudera), Data Mining, Data Warehouse, Web Mining,Image Mining, Image/Video processing, Text Mining, NLP, Statistics.
-* Machine Learning methods: Neural Networks, K-Means, KNN, SVM, Gradient Descent, Linear Regression, Naive Bayes, Hierarchical Ascending,Classification (HAC), Random Forest, Decision Tree,ARIMA/SARIMA.
-* Deep Learning Models: CNN, RNN, LSTM.
-* Libraries: NumPy, Pandas, Matplotlib, Scipy, Scikit-Learn, NLTK,
-* Programming Language: Python (most frequently used), C, C++, Java.
-* BI: Tableau, Power BI.
-* Web dev: HTML, CSS, JavaScript, PHP, JEE.
-* Web Services: REST, SOAP.
-* Database: Oracle Database 11g, SQL, PL/SQL, MySQL.
-* Conception: UML, MCD, MERISE, Design Patterns.
-* Tools: Linux, Git, Latex, Cloudera, Deep Learning Frameworks (Pytorch > Keras > TensorFlow)
-* Languages: Arabic (native), French (Professional), English (current), Japanese (Basic),
+|||
+|:-------------:|:-------------------:|
+|**Specialization**| Artificielle Intelligence, Business Intelligence, Machine Learning, Deep Learning,Big Data(Hadoop ecosystem – cloudera), Data Mining, Data Warehouse, Web Mining,Image Mining, Image/Video processing, Text Mining, NLP, Statistics.|
+|**Machine Learning methods**| Neural Networks, K-Means, KNN, SVM, Gradient Descent, Linear Regression, Naive Bayes, Hierarchical Ascending,Classification (HAC), Random Forest, Decision Tree,ARIMA/SARIMA.|
+|**Deep Learning Models**| CNN, RNN, LSTM.|
+|**Libraries**| NumPy, Pandas, Matplotlib, Scipy, Scikit-Learn, NLTK.|
+|**Programming Language**| Python (most frequently used), C, C++, Java.|
+|**BI**| Tableau, Power BI.|
+|**Web dev**| HTML, CSS, JavaScript, PHP, JEE.|
+|**Web Services**| REST, SOAP.|
+|**Database**| Oracle Database 11g, SQL, PL/SQL, MySQL.|
+|**Conception**| UML, MCD, MERISE, Design Patterns.|
+|**Tools**| Linux, Git, Latex, Cloudera, Deep Learning Frameworks (Pytorch > Keras > TensorFlow).|
+|**Languages**| Arabic (native), French (Professional), English (current), Japanese (Basic).|
 
 
 <!-- ## Teaching Assistance
