@@ -32,6 +32,13 @@ intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez -
 ## Experience
 * **03/2020-06/2020**, _Data Scientist Intern_, [OCP Group](https://www.ocpgroup.ma/). Mentor: [LABKIRA Imane](mailto:imane.labkira@ocpgroup.ma) 
 
+  **Objectif:**
+   * Monitoring system establishment of the OCP data Lake.
+   * Handling of data lake services (Cloudera distribution of the Hadoop ecosystem).
+   * Use of the ARIMA predictive model.
+   * Predict the status of platform services, by leveraging historical data about their use.
+   * Data Visualization using Tableau software.
+
 
 <!-- ## Publications 
 * **Yue Wang**, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, and Steven C.H. Hoi. **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. (**EMNLP 2020**, our VD-BERT has been ranked **No.1** in the [Visual Dialog leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/161/leaderboard/483) from 01/2020-05/2020).\[[paper](https://arxiv.org/abs/2004.13278)\]\[[zhihu](https://zhuanlan.zhihu.com/p/141605303)\]\[[code](https://github.com/salesforce/VD-BERT)\] -->
@@ -69,7 +76,54 @@ intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez -
 |**Tools**| Linux, Git, Latex, Cloudera, Deep Learning Frameworks (Pytorch > Keras > TensorFlow).|
 |**Languages**| Arabic (native), French (Professional), English (current), Japanese (Basic).|
 
-
+## Academic Project
+* Machine Learning & Image Mining
+(09/2019–02/2020)
+Micro expressions classification
+Development of a mobile
+application that consumes a web
+service in order to classify micro
+expressions (Flask, Python, Image
+Mining and Android).
+Cancer detection from analysis of
+skin lesions (ISIC 2017).
+ASL alphabet detection and
+numbers from human gestures.
+(Python(Jupyter), CBIR, KNN, SVM ).
+Web Mining (10/2019–12/2019)
+Mining social media network for
+discovering Moroccan people topics.
+(Python(Jupyter), Twitter API,
+Scrapy, NLTK, word2vec , TF-IDF,
+LDA ).
+Internet of Things
+(11/2018-05/2019)
+Android and Arduino application :
+Build a guard robot to secure the
+home against theft and gas leaks.
+(Web socket, USB communication,
+FireBase API, Volley API ).
+Business Intelligence
+(10/2019–10/2019)
+Proposal of an IT/BI solution for a
+commercial data analysis system
+"OrderItem".
+(Talend, Pentaho, Power BI)
+Credit Card Management
+(12/2018-12/2018)
+Android mobile application.
+(RESTful API, Volley, JEE).
+Graduation Project (Bachelor
+Degree) : TETRIS Game
+(02/2018-06/2018)
+Desktop application:
+Game development : ‘’TETRIS’’.
+( JAVA / SWING – AWT).
+\* denotes being a Reviewer, otherwise being a Subreviewer:
+* 2020: AAAI\*, TKDE\*, TIST\*, DSN, ACL, COLING, ICONIP
+* 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
+* 2018: EMNLP, IJCAI, IJCNN, ISSRE 
+* 2017: NIPS, SIGIR
 <!-- ## Teaching Assistance
 * ENGG1000: IT Workshop about Advanced Excel (2018-2019)
 * CSCI1510: Computer Principles and C Programming (Spring 2019)
