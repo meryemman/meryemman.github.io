@@ -5,14 +5,14 @@ body {
   background-image: url("/assets/img/bg.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding:50px;
+  padding:10px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:rgb(109, 236, 250);
   margin:0 0 20px;
 }
 
@@ -33,7 +33,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#51d2fa;
 }
 
 a {
