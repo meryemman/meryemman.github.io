@@ -23,21 +23,21 @@ I will enter the job market soon. If you are interested in my background, please
 
 ## Education
 * **2020-present**, Ph.D. candidate, Mohemmadia engineering school, Rabat - Morocco, [Department of Computer Science](https://www.emi.ac.ma/). Supervisor: [Prof. XXXX]().
-* **2018-2020**, Master in Business 
+* **2018-2020**, Master in Business
 intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
 * **2017-2018**, Bachelor in computer and mathematical science, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
 * **2014-2017**, DEUG in computer and mathematical science, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
 * **2013-2014**,High School graduate (Baccalaureate) : Mathematic, Option (B), High School Moulay Slimane, Fez - Morocco.
 
 ## Experience
-* **03/2020-06/2020**, _Data Scientist Intern_, [OCP Group](https://www.ocpgroup.ma/). Mentor: [LABKIRA Imane](mailto:imane.labkira@ocpgroup.ma) 
+* **03/2020-06/2020**, _Data Scientist Intern_, [OCP Group](https://www.ocpgroup.ma/). Mentor: [LABKIRA Imane](mailto:imane.labkira@ocpgroup.ma)
 
-  **Objectif:**
-   * Monitoring system establishment of the OCP data Lake.
-   * Handling of data lake services (Cloudera distribution of the Hadoop ecosystem).
-   * Use of the ARIMA predictive model.
-   * Predict the status of platform services, by leveraging historical data about their use.
-   * Data Visualization using Tableau software.
+  > **Objectif:**
+  > * Monitoring system establishment of the OCP data Lake.
+  > * Handling of data lake services (Cloudera distribution of the Hadoop ecosystem).
+  > * Use of the ARIMA predictive model.
+  > * Predict the status of platform services, by leveraging historical data about their use.
+  > * Data Visualization using Tableau software.
 
 
 <!-- ## Publications 
