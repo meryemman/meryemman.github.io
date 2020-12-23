@@ -15,7 +15,6 @@
     <div class="wrapper">
       <header>
         <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
-        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -37,10 +36,18 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        <ul class="downloads">
-          <!-- <li><a href="https://twitter.com/m_elkhou/">Find Me <strong>Twitter</strong></a></li> -->
-          <li><a href="https://www.linkedin.com/in/meryem-manessouri/">Find Me <strong>Linkedin</strong></a></li> 
-          <li><a href="https://www.facebook.com/meryem.manessouri//">Find me <strong>Facebook</strong></a></li>
+         <ul class="links">
+          {% if site.email %}
+          <li><a href="{{ site.email }}"><img src="/assets/icon/email.svg"><strong> Email</strong></img></a></li>
+          {% endif %}
+          <li><a href="{{ site.github.owner_url }}"><img src="/assets/icon/github.svg"><strong>GitHub</strong></img></a></li>
+          {% if site.linkedin %}
+          <li><a href="{{ site.linkedin }}"><img src="/assets/icon/linkedin.svg"><strong> Linkedin</strong></img></a></li>
+          {% endif %}
+          {% if site.facebook %}
+          <li><a href="{{ site.facebook }}"><img src="/assets/icon/facebook.svg"><strong> Facebook</strong></img></a></li>
+          {% endif %}
+          
         </ul>
       </header>
       <section>

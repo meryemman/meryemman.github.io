@@ -2,13 +2,15 @@
 layout: default
 ---
 
-# About Me
-I am a first year Ph.D. candidate at [Mohemmadia engineering school](https://www.emi.ac.ma/) [Faculty of Sciences Dhar El Mahraz](http://www.fsdmfes.ac.ma/) Fez - Morocco, under the supervision of [Prof. XXX]().  Before that, I obtained my Master degree from [FSDM-USMBA](http://www.fsdmfes.ac.ma/) . My major research interest lies in the intersection of *Data Sciences* and *Natural language processing*, as well as the *social media analysis*. 
+# About Me 💡
+
+I am a first year Ph.D. candidate at [Mohemmadia engineering school](https://www.emi.ac.ma/) , under the supervision of [Prof. XXX]().  Before that, I obtained my Master degree from [Sidi Mohamed ben Abdellah University](http://www.usmba.ac.ma/) (`USMBA`)[Faculty of Sciences Dhar El Mahraz](http://www.fsdmfes.ac.ma/)(`FSDM`) Fez - Morocco(http://www.fsdmfes.ac.ma/) . My major research interest lies in the intersection of *Data Sciences* and *Natural language processing*, as well as the *social media analysis*. See my [Google scholar]() for more details.
 
 I will enter the job market soon. If you are interested in my background, please contact me: [meryem DOT manessouri AT gmail DOT com](mailto:meryem.manessouri@gmail.com).
 
-## Research Interests
-* In general: Deep Learning, Machine Learning, Computer Vision, Natural Language Processing.
+## Research Interests 🎯
+
+* **In general**: Deep Learning, Machine Learning, Computer Vision, Natural Language Processing.
 * **Language Understanding in Social Media**: Hashtag Annotation, Topic Detection
 
 
@@ -21,18 +23,19 @@ I will enter the job market soon. If you are interested in my background, please
 * **27/07/2019**, attend ACL 2019 in Florence, Italy
 * **30/05/2019**, attend NAACL 2019 in Minneapolis, USA -->
 
-## Education
-* **2020-present**, Ph.D. candidate, Mohemmadia engineering school, Rabat - Morocco, [Department of Computer Science](https://www.emi.ac.ma/). Supervisor: [Prof. XXXX]().
-* **2018-2020**, Master in Business
-intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
-* **2017-2018**, Bachelor in computer and mathematical science, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
-* **2014-2017**, DEUG in computer and mathematical science, Sidi Mohamed ben Abdellah University, Fez - Morocco, [Department of Computer Science](http://www.fsdmfes.ac.ma/).
+## Education 🎓
+
+* **2020-present**, Ph.D. candidate, [Department of Computer Science], Mohemmadia engineering school(`EMI`), Rabat - Morocco, (https://www.emi.ac.ma/). Supervisor: [Prof. XXXX]().
+* **2018-2020**, Master in Business intelligence and intelligent vision (`MIDVI`),[Department of Computer Science], Sidi Mohamed ben Abdellah University, [Faculty of Science Dhar El Mahraz](http://www.fsdmfes.ac.ma/) Fez - Morocco.
+* **2017-2018**, Bachelor in computer and mathematical science (`SMI`), [Department of Computer Science], Sidi Mohamed ben Abdellah University, [Faculty of Science Dhar El Mahraz](http://www.fsdmfes.ac.ma/) Fez - Morocco.
+* **2014-2017**, DEUG in computer and mathematical science, [Department of Computer Science], Sidi Mohamed ben Abdellah University, [Faculty of Science Dhar El Mahraz](http://www.fsdmfes.ac.ma/) Fez - Morocco.
 * **2013-2014**,High School graduate (Baccalaureate) : Mathematic, Option (B), High School Moulay Slimane, Fez - Morocco.
 
-## Experience
-* **03/2020-06/2020**, _Data Scientist Intern_, [OCP Group](https://www.ocpgroup.ma/). Mentor: [LABKIRA Imane](mailto:imane.labkira@ocpgroup.ma)
+## Experience 💼
 
-  > **Objectif:**
+* **03/2020-06/2020**, _Data Scientist Intern_, [OCP Group](https://www.ocpgroup.ma/). Mentor: [LABKIRA Imane](mailto:imane.labkira@ocpgroup.ma)
+  > **Address**: Headquarters, Boulevard Al Abtal, BP 5196 - Casablanca, Morocco
+  > **Objectif**:
   > * Monitoring system establishment of the OCP data Lake.
   > * Handling of data lake services (Cloudera distribution of the Hadoop ecosystem).
   > * Use of the ARIMA predictive model.
@@ -59,7 +62,7 @@ intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez -
 * 2018: EMNLP, IJCAI, IJCNN, ISSRE 
 * 2017: NIPS, SIGIR -->
 
-## Skills
+## Skills ⚙
 
 |||
 |:-------------:|:-------------------:|
@@ -76,54 +79,41 @@ intelligence and intelligent vision, Sidi Mohamed ben Abdellah University, Fez -
 |**Tools**| Linux, Git, Latex, Cloudera, Deep Learning Frameworks (Pytorch > Keras > TensorFlow).|
 |**Languages**| Arabic (native), French (Professional), English (current), Japanese (Basic).|
 
-## Academic Project
-* Machine Learning & Image Mining
-(09/2019–02/2020)
-Micro expressions classification
-Development of a mobile
-application that consumes a web
-service in order to classify micro
-expressions (Flask, Python, Image
-Mining and Android).
-Cancer detection from analysis of
-skin lesions (ISIC 2017).
-ASL alphabet detection and
-numbers from human gestures.
-(Python(Jupyter), CBIR, KNN, SVM ).
-Web Mining (10/2019–12/2019)
-Mining social media network for
-discovering Moroccan people topics.
-(Python(Jupyter), Twitter API,
-Scrapy, NLTK, word2vec , TF-IDF,
-LDA ).
-Internet of Things
-(11/2018-05/2019)
-Android and Arduino application :
-Build a guard robot to secure the
-home against theft and gas leaks.
-(Web socket, USB communication,
-FireBase API, Volley API ).
-Business Intelligence
-(10/2019–10/2019)
-Proposal of an IT/BI solution for a
-commercial data analysis system
-"OrderItem".
-(Talend, Pentaho, Power BI)
-Credit Card Management
-(12/2018-12/2018)
-Android mobile application.
-(RESTful API, Volley, JEE).
-Graduation Project (Bachelor
-Degree) : TETRIS Game
-(02/2018-06/2018)
-Desktop application:
-Game development : ‘’TETRIS’’.
-( JAVA / SWING – AWT).
-\* denotes being a Reviewer, otherwise being a Subreviewer:
-* 2020: AAAI\*, TKDE\*, TIST\*, DSN, ACL, COLING, ICONIP
-* 2019: AAAI\*, EMNLP\*, NAACL, ACL, DSN 
-* 2018: EMNLP, IJCAI, IJCNN, ISSRE 
-* 2017: NIPS, SIGIR
+## Academic Project 📝
+
+* Machine Learning & Image Mining (09/2019–02/2020)
+  * Micro expressions classification [🔗]()
+  * Development of a mobile application that consumes a web service in order to classify micro expressions.
+  * Tools : Flask, Python, Image Mining and Android.
+  * Cancer detectionfrom analysis of skin lesions (ISIC 2017).
+  * ASL alphabet detectionand numbers from human gestures.
+  > **Tools** : Python(Jupyter), Google Colab, CBIR, KNN, SVM.
+  >
+  > **GitHub link** : [🔗]()
+
+* Web Mining  (10/2019–12/2019)
+  * Mining social media network for discovering Moroccan people topics.
+  > **Tools** : Python(Jupyter), Twitter API, Scrapy, NLTK, word2vec , TF-IDF, LDA.
+  > **GitHub link** : [🔗]()
+
+* Text Mining (10/2019-12/2019)
+  * text Classification.
+  *Search engine.
+  *Dimension reduction by Chi2 method
+  > **Tools** :  TF-IDF, SVM, naive-bayes, kmeans, hiérarchique clustering
+
+* Graduation Project (Bachelor Degree) : invoice and complaint management Application (02/2018-06/2018)
+  * Desktop application: Design and development of a desktop application for managing invoices and complaints for RADEEF 
+  > **Tools** : JAVA / SWING –AWT.
+
+## Hobbies
+
+* Traveling 🧳.
+* Sports 🚴‍♂️: Hiking in Fes, running on the beach in Assilah, practicing Fitness/Crossfit. I used to play volleyball.
+* Reading/Learning 💻: I spend most of my free time trying to learn stuffs. I try to do 1 online course per month, although I don't always manage to do so.
+
+🎯 That's all the fork 🙏
+
 <!-- ## Teaching Assistance
 * ENGG1000: IT Workshop about Advanced Excel (2018-2019)
 * CSCI1510: Computer Principles and C Programming (Spring 2019)
@@ -140,7 +130,3 @@ Game development : ‘’TETRIS’’.
   - [Common bugs in writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [How to write a godd rebuttal?](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)  
 * [_A report on me_](https://mp.weixin.qq.com/s/f0lpTI4LJPUXmZcIKofDlQ) from an official association at Sun Yat-sen University -->
-
-## Hobbies
-* Sports: reading, swimming, cooding, traveling
-
