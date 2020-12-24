@@ -29,27 +29,7 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% if site.show_downloads %}
-        <ul id="menu" class="shadow">
-            <li>
-                <a href="#about">About</a>
-            </li>
-            <li>
-                <a href="#experience">Experience</a>
-            </li>
-            <li>
-                <a href="#education">Education</a>
-            </li>
-            <li>
-                <a href="#projects">Projects</a>
-            </li>
-            <li>
-                <a href="#skills">Skills</a>
-            </li>
-            <li>
-                <a href="#contact">Contact</a>
-            </li>
-        </ul>
+        {% comment %} {% if site.show_downloads %} {% endcomment %}
         {% comment %} <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
@@ -67,7 +47,6 @@
           {% if site.facebook %}
           <li><a href="{{ site.facebook }}"><img src="/assets/icon/facebook.svg"><strong> Facebook</strong></img></a></li>
           {% endif %}
-          
         </ul>
       </header>
       <section>
