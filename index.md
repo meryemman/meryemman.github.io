@@ -81,7 +81,7 @@ I will enter the job market soon. If you are interested in my background, please
 
 ## Academic Project 📝
 
-* Machine Learning & Image Mining (09/2019–02/2020)
+* **Machine Learning & Image Mining (09/2019–02/2020)**
   * Micro expressions classification [🔗]()
   * Development of a mobile application that consumes a web service in order to classify micro expressions.
   * Tools : Flask, Python, Image Mining and Android.
@@ -91,18 +91,18 @@ I will enter the job market soon. If you are interested in my background, please
   >
   > **GitHub link** : [🔗]()
 
-* Web Mining  (10/2019–12/2019)
+* **Web Mining  (10/2019–12/2019)**
   * Mining social media network for discovering Moroccan people topics.
   > **Tools** : Python(Jupyter), Twitter API, Scrapy, NLTK, word2vec , TF-IDF, LDA.
   > **GitHub link** : [🔗]()
 
-* Text Mining (10/2019-12/2019)
+* **Text Mining (10/2019-12/2019)**
   * text Classification.
   *Search engine.
   *Dimension reduction by Chi2 method
   > **Tools** :  TF-IDF, SVM, naive-bayes, kmeans, hiérarchique clustering
 
-* Graduation Project (Bachelor Degree) : invoice and complaint management Application (02/2018-06/2018)
+* **Graduation Project (Bachelor Degree) : invoice and complaint management Application (02/2018-06/2018)**
   * Desktop application: Design and development of a desktop application for managing invoices and complaints for RADEEF 
   > **Tools** : JAVA / SWING –AWT.
 
