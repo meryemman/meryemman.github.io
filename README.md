@@ -2,7 +2,7 @@
 
 *My homepage is built on [Minimal theme](http://pages-themes.github.io/minimal), which is a Jekyll theme for GitHub Pages.*
 
-View [my homepage](https://meryem-manessouri.github.io/) for a demo!
+View [my homepage](https://meryemman.github.io/) for a demo!
 ## Usage
 
 To use the Minimal theme:
