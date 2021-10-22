@@ -42,7 +42,7 @@ I will enter the job market soon. If you are interested in my background, please
   > *Use of the ARIMA predictive model.
   > *Predict the status of platform services, by leveraging historical data about their use.
   > *Data Visualization using Tableau software.
-  > Keywords : Python(Jupyter), Big Data, Cloudera, ARIMA, TimeSeries, Tableau.
+  > **Keywords** : Python(Jupyter), Big Data, Cloudera, ARIMA,TimeSeries, Tableau.
 
 ## Skills ⚙
 
